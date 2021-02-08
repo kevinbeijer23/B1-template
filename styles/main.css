@@ -43,7 +43,10 @@ header{
   -o-animation: fadein 4s; /* Opera < 12.1 */
   animation: fadein 4s;
 }
+.row{
+  display: flex;
 
+}
 .logo{
   margin: 0 auto;
   width: 512px;
