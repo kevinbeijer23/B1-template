@@ -170,6 +170,19 @@ button{
   height: 64px;
 }
 
+.product-wrapper{​​​​​
+display: flex;
+flex-direction: row;
+border: none;
+}​​​​​
+.totaal-som{​​​​​
+display: flex;
+justify-content: flex-end;
+margin-right: 150px;
+font-weight: bold;
+}​​​​​
+
+
 .sidy-by-side{
   display: flex;
   justify-content:space-between;
