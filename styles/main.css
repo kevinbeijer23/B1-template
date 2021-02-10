@@ -154,6 +154,17 @@ button{
   color: #000000;
   font-weight: bold;
 }
+.emphasize{
+  Border-left:5px solid #27AE60;
+  border-color:#27AE60;
+  box-shadow:1px 0px 5px#27AE60;
+  padding:1em;
+}
+.emphasize h2{
+  margin:0;
+  border:none;
+  text-align:center;
+}
 
 .payment-option{
   height: 64px;
