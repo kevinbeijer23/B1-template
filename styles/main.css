@@ -184,7 +184,22 @@ footer{
 .hidden-on-sm{
   display: block;
 }
-
+.product-info p span{
+  font-weight: bold;
+  }
+  .product-info p{
+  margin: 0;
+  }
+  
+  .product-info{
+  border-left: none;
+  margin-top: 70px;
+  }
+  .product-wrapper{
+  display: flex;
+  flex-direction: row;
+  border: none;
+  }
 /* 
   ##Device = Most of the Smartphones Mobiles (Portrait)
   ##Screen = B/w 320px to 479px
